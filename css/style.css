@@ -1,0 +1,16 @@
+.box{
+    border-style:solid;
+    background-color:rgb(108, 139, 36);
+    color:rgb(123, 202, 18);
+    border-color:rgb(162, 199, 233);
+    border-width:5px;
+    text-align:center;
+}
+.inText{
+    margin-bottom: -50px;
+    color: beige;
+    text-align: center;
+}
+.iType{ 
+    text-align: center
+}
