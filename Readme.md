@@ -1,1 +1,1 @@
-# This is my firs time creating a website I am playing around
+# This is my first time creating a website I am playing around
